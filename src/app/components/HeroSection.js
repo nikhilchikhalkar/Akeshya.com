@@ -12,8 +12,8 @@ import Link from "next/link";
 function HeroSection() {
   return (
     <>
-      <section className="w-[90%] mx-auto mb-24 md:mb-0 mt-20  md:py-2 lg:pt-2 flex flex-col-reverse md:flex-row overflow-hidden">
-        <div className="lg:w-[55%] mx-auto md:p-14">
+      <section className=" w-[70%] xl:w-[90%] mx-auto mb-24 md:mb-0 mt-20  md:py-2 lg:pt-2 flex flex-col-reverse md:flex-row ">
+        <div className="xl:w-[55%] mx-auto md:p-14">
           <h1 data-aos='fade-up' className=" text-[24px] md:text-[48px]  text-[#14279b] font-semibold ">
             Grow your business with Akeshya
           </h1>
@@ -39,7 +39,7 @@ function HeroSection() {
         </div>
       </section>
       <section>
-        <div className=" w-full
+        <div className=" 
          text-[#b0cbdc] mt-2 grid grid-cols-2 md:grid-cols-6 mb-14 bg-[#F3F9FD]">
           <div className=" my-auto grayscale hover:grayscale-0 transition-all p-2">
             <Image

@@ -33,7 +33,7 @@ function Process() {
     <div className=' text-center text-[#444444] pb-8'>Over the years we’ve evolved a tested method for attaining achievement for each one of our clients.</div>
         </div>
     
-    <div className=' w-[90%] gap-20 my-10 lg:w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2'>
+    <div className=' w-[80%] gap-20 my-10 lg:w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2'>
 
 
         {

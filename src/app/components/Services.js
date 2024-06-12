@@ -8,7 +8,7 @@ function Services() {
   return (
     <>
       <section>
-        <div data-aos="fade-up">
+        <div data-aos="fade-up" className="w-[80%] mx-auto        " >
           <div className="flex mb-2 justify-center items-center mx-auto gap-4">
             <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
             <span className="font-semibold text-3xl md:text-4xl">Services</span>
@@ -20,7 +20,7 @@ function Services() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-4 w-[90%] gap-8 mx-auto">
+        <div className="grid grid-cols-1 lg:grid-cols-4 w-[75%] gap-8 mx-auto">
 
           <div data-aos='fade-up' data-aos-delay='100'
             className="border group hover:transition-all hover:duration-500  hover:bg-indigo-700  p-4 rounded-xl shadow-lg relative

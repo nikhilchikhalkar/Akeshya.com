@@ -16,7 +16,7 @@ function About() {
     <>
       <section>
         <div className="pb-20 " >
-          <div data-aos="fade-up" className="flex mb-2 mx-auto justify-center items-center  gap-4">
+          <div data-aos="fade-up" className="flex mb-2 mx-auto justify-center items-center gap-4">
             <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
             <span className="font-semibold text-3xl md:text-4xl">About Us</span>
             <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
@@ -24,7 +24,7 @@ function About() {
 
           <div className="flex flex-col lg:flex-row mx-8 lg:w-[90%] lg:mx-auto text-[#444444] ">
             <div data-aos='fade-up' data-aos-delay="150" className=" lg:w-[48%] mx-auto ">
-              <p className="w-[90%] mx-auto mb-2">
+              <p className="xl:w-[90%] px-2 py-6 mx-auto mb-2">
                 We are Akeshya, a firm that specializes in web design and
                 marketing. We help transform ideas into reality with a team of
                 passionate graphic designers, web developers, and seasoned
@@ -58,7 +58,7 @@ function About() {
                 </li>
               </ul>
             </div>
-            <div data-aos='fade-up' data-aos-delay="300" className="lg:w-[48%] px-2 pt-6 lg:pt-0 pb-6 ">
+            <div data-aos='fade-up' data-aos-delay="300" className="xl:w-[48%] px-2 pt-6 lg:pt-0 pb-6 ">
               <p>
                 We&apos;re professional, but we&apos;re also friendly, and we&apos;ll always
                 pay attention to your concerns. We expect to work with
@@ -80,17 +80,17 @@ function About() {
         </div>
       </section>
       <section>
-        <div className="w-[90%] mx-auto flex flex-col xl:flex-row pb-14 ">
-          <div data-aos='fade-right' data-aos-delay="150" className=" xl:w-[38%]  mx-auto  items-center my-auto  justify-center">
+        <div className="xl:w-[90%] mx-auto flex flex-col xl:flex-row pb-14 ">
+          <div data-aos='fade-right' data-aos-delay="150" className=" xl:w-[38%] p-4  mx-auto  items-center my-auto  justify-center">
             <Image src={countimg} className="lg:pr-10 lg:py-10" alt="count img" />
           </div>
-          <div data-aos='fade-left' data-aos-delay="300" className="xl:w-[50%] w-[60%] mx-auto  justify-center my-auto ">
+          <div data-aos='fade-left' data-aos-delay="300" className="xl:w-[50%] w-[80%]  justify-center my-auto ">
             <div className="grid grid-cols-1  md:grid-cols-2">
 
               <div className="p-5 gap-4 ">
                 <div className="flex gap-5">      
                 {/* icon */}
-                <CiFaceSmile size={42} className=" text-indigo-500" />
+                <CiFaceSmile size={40} className=" text-indigo-500" />
                 <span className="text-4xl px-2 font-semibold">{/* number */}
                 <CountUp start={0}
                  end={3835039}
