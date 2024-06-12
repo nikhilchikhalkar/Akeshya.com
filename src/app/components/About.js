@@ -60,10 +60,10 @@ function About() {
             </div>
             <div data-aos='fade-up' data-aos-delay="300" className="lg:w-[48%] px-2 pt-6 lg:pt-0 pb-6 ">
               <p>
-                We're professional, but we're also friendly, and we'll always
+                We&apos;re professional, but we&apos;re also friendly, and we&apos;ll always
                 pay attention to your concerns. We expect to work with
                 innovative people that have an open mind and are dedicated to
-                making every idea a reality. We want to hear from you if you're
+                making every idea a reality. We want to hear from you if you&apos;re
                 interested in SEO, have Web Development ideas, or require a
                 graphic designer who can match your goals.
               </p>
@@ -105,8 +105,8 @@ function About() {
                 </p>
               </div>
 
-              <div className="py-5">
-                <div className="flex gap-2">      
+              <div className="p-5 gap-4 ">
+                <div className="flex gap-5">      
                 {/* icon */}
                 <BsJournalRichtext size={40} className="text-indigo-500" />
                 <span className="text-4xl font-semibold">{/* number */}
@@ -123,8 +123,8 @@ function About() {
               </div>
 
 
-              <div className="py-5">
-                <div className="flex gap-2">      
+              <div className="p-5 gap-4">
+                <div className="flex gap-5">      
                 {/* icon */}
                 <GoClock size={40} className="text-indigo-500" />
                 <span className="text-4xl font-semibold">{/* number */} 
@@ -142,8 +142,8 @@ function About() {
               </div>
 
 
-              <div className="py-5">
-                <div className="flex gap-2">      
+              <div className="p-5 gap-4">
+                <div className="flex gap-5">      
                 {/* icon */}
                 <BsGlobe2 size={40} className="text-indigo-500" />
                 <span className="text-4xl font-semibold">{/* number */}

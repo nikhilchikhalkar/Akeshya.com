@@ -42,7 +42,7 @@ function Services() {
             </h3>
             <p className="group-hover:text-white text-[#444444] text-base p-4 mr-2">
               Our web design services can assist you in reclaiming your
-              company's online image. Your business will flourish on the
+              company&apos;s online image. Your business will flourish on the
               Internet thanks to the combination of style and technology we
               provide, as well as our experience.
             </p>
@@ -62,13 +62,10 @@ function Services() {
               />
             </div>
             <h3 className="ml-4 font-bold text-lg group-hover:text-white">
-              Design
+              Development
             </h3>
             <p className="group-hover:text-white text-[#444444] text-base p-4 mr-2">
-              Our web design services can assist you in reclaiming your
-              company's online image. Your business will flourish on the
-              Internet thanks to the combination of style and technology we
-              provide, as well as our experience.
+            Our development team can construct platforms to help your business thrive by creating powerful customised solutions tailored to your particular requirements. Akeshya makes use of established and effective web development tools. 
             </p>
           </div>
 
@@ -86,13 +83,10 @@ function Services() {
               />
             </div>
             <h3 className="ml-4 font-bold text-lg group-hover:text-white">
-              Design
+            Marketing
             </h3>
             <p className="group-hover:text-white text-[#444444] text-base p-4 mr-2">
-              Our web design services can assist you in reclaiming your
-              company's online image. Your business will flourish on the
-              Internet thanks to the combination of style and technology we
-              provide, as well as our experience.
+            A beautiful website is the foundation of effective marketing. Our customers achieve success where it counts—in the real world—by combining our proven approach with our passion for improving conversions and increasing ROI.
             </p>
           </div>
 
@@ -110,13 +104,10 @@ function Services() {
               />
             </div>
             <h3 className="ml-4 font-bold text-lg group-hover:text-white">
-              Design
+            Support
             </h3>
             <p className="group-hover:text-white text-[#444444] text-base p-4 mr-2">
-              Our web design services can assist you in reclaiming your
-              company's online image. Your business will flourish on the
-              Internet thanks to the combination of style and technology we
-              provide, as well as our experience.
+            Since the beginning, we at Akeshya have specialised in website maintenance. We recognise the significance of having your business online 24 hours a day, seven days a week, and we&apos;ve created a system to ensure that we&apos;re always available. 
             </p>
           </div>
         </div>
