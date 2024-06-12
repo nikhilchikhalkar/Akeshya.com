@@ -39,7 +39,7 @@ function HeroSection() {
         </div>
       </section>
       <section>
-        <div className=" 
+        <div className=" w-full
          text-[#b0cbdc] mt-2 grid grid-cols-2 md:grid-cols-6 mb-14 bg-[#F3F9FD]">
           <div className=" my-auto grayscale hover:grayscale-0 transition-all p-2">
             <Image

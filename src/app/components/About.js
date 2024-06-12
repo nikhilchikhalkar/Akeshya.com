@@ -84,7 +84,7 @@ function About() {
           <div data-aos='fade-right' data-aos-delay="150" className=" xl:w-[38%]  mx-auto  items-center my-auto  justify-center">
             <Image src={countimg} className="lg:pr-10 lg:py-10" alt="count img" />
           </div>
-          <div data-aos='fade-left' data-aos-delay="300" className="xl:w-[50%] w-[80%] mx-auto  justify-center my-auto ">
+          <div data-aos='fade-left' data-aos-delay="300" className="xl:w-[50%] w-[60%] mx-auto  justify-center my-auto ">
             <div className="grid grid-cols-1  md:grid-cols-2">
 
               <div className="p-5 gap-4 ">
