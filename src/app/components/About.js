@@ -23,7 +23,7 @@ function About() {
           </div>
 
           <div className="flex flex-col lg:flex-row mx-8 lg:w-[90%] lg:mx-auto text-[#444444] ">
-            <div data-aos='fade-up' data-aos-delay="150" className=" lg:w-[48%] mx-auto ">
+            <div data-aos='fade-up' data-aos-delay="150" className=" lg:w-[50%] mx-auto ">
               <p className="xl:w-[90%] px-2 py-6 mx-auto mb-2">
                 We are Akeshya, a firm that specializes in web design and
                 marketing. We help transform ideas into reality with a team of
@@ -58,7 +58,7 @@ function About() {
                 </li>
               </ul>
             </div>
-            <div data-aos='fade-up' data-aos-delay="300" className="xl:w-[48%] px-2 pt-6 lg:pt-0 pb-6 ">
+            <div data-aos='fade-up' data-aos-delay="300" className="lg:w-[50%] px-2 pt-6 lg:pt-0 pb-6 ">
               <p>
                 We&apos;re professional, but we&apos;re also friendly, and we&apos;ll always
                 pay attention to your concerns. We expect to work with

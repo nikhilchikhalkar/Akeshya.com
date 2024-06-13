@@ -13,7 +13,7 @@ function HeroSection() {
   return (
     <>
       <section className=" xl:w-[90%] mx-auto mb-24 md:mb-0 mt-20  md:py-2 lg:pt-2 flex flex-col-reverse xl:flex-row ">
-        <div className="xl:w-[55%] mx-auto md:p-14">
+        <div className="xl:w-[55%] mx-auto p-4 md:p-14">
           <h1 data-aos='fade-up' className=" text-[24px] md:text-[48px]  text-[#14279b] font-semibold ">
             Grow your business with Akeshya
           </h1>
@@ -30,7 +30,7 @@ function HeroSection() {
             </Link>
           </div>
         </div>
-        <div data-aos='fade-left' data-aos-delay="200" className="">
+        <div data-aos='fade-left' data-aos-delay="200" className="mx-auto justify-center items-center">
           <Image
             className="md:animate-slow-bounce p-10 md:p-0"
             src={hero}
@@ -55,7 +55,7 @@ function HeroSection() {
           <div className=" my-auto grayscale hover:grayscale-0 transition-all p-2">
             <Image
               src={client2}
-              width={"auto"}
+              width={100}
               height={100}
               className="justify-center mx-auto"
               alt="client-2"
@@ -66,7 +66,7 @@ function HeroSection() {
           <div className=" my-auto grayscale hover:grayscale-0 transition-all p-2">
             <Image
               src={client3}
-              width={"auto"}
+              width={100}
               height={100}
               className="justify-center mx-auto"
               alt="client-3"
@@ -77,7 +77,7 @@ function HeroSection() {
           <div className=" my-auto grayscale hover:grayscale-0 transition-all p-2">
             <Image
               src={client4}
-              width={"auto"}
+              width={100}
               height={100}
               className="justify-center mx-auto"
               alt="client-4"
@@ -88,7 +88,7 @@ function HeroSection() {
           <div className=" my-auto grayscale hover:grayscale-0 transition-all p-2">
             <Image
               src={client5}
-              width={"auto"}
+              width={100}
               height={100}
               className="justify-center mx-auto"
               alt="client-5"
@@ -99,7 +99,7 @@ function HeroSection() {
           <div className=" my-auto grayscale hover:grayscale-0 transition-all p-2">
             <Image
               src={client6}
-              width={"auto"}
+              width={100}
               height={100}
               className="justify-center mx-auto"
               alt="client-6"
