@@ -21,12 +21,12 @@ function Feature() {
         <div className="w-[90%] mx-auto my-12">
           <div data-aos='fade-up'>
               
-          <div className="flex mb-2 justify-center items-center mx-auto gap-4">
-            <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
-            <span className="font-semibold text-[#222222] text-3xl md:text-4xl">
+          <div className="flex mb-2 justify-center items-center mx-auto gap-2 xl:gap-4">
+            <hr className=" w-7 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
+            <span className="font-semibold text-[#222222] text-xl md:text-4xl">
               OUR CORE FEATURES
             </span>
-            <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
+            <hr className=" w-7 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
           </div>
           <div className=" text-center text-[#444444] pb-8">
             Akeshya is a forward-thinking and intelligent design firm that is

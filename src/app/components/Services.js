@@ -8,10 +8,10 @@ function Services() {
   return (
     <>
       <section>
-        <div data-aos="fade-up" className="w-[80%] mx-auto        " >
-          <div className="flex mb-2 justify-center items-center mx-auto gap-4">
+        <div data-aos="fade-up" className="w-[80%] mx-auto    " >
+          <div className="flex mb-2 justify-center items-center mx-auto gap-2 xl:gap-4">
             <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
-            <span className="font-semibold text-3xl md:text-4xl">Services</span>
+            <span className="font-semibold text-2xl md:text-4xl">Services</span>
             <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
           </div>
           <div className="text-center text-[#444444] pb-8">

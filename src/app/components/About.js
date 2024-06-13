@@ -16,10 +16,10 @@ function About() {
     <>
       <section>
         <div className="pb-20 " >
-          <div data-aos="fade-up" className="flex mb-2 mx-auto justify-center items-center gap-4">
-            <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
-            <span className="font-semibold text-3xl md:text-4xl">About Us</span>
-            <hr className=" w-10 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
+          <div data-aos="fade-up" className="flex mb-2 mx-auto justify-center items-center gap-2 xl:gap-4">
+            <hr className=" w-7 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
+            <span className="font-semibold text-2xl md:text-4xl">About Us</span>
+            <hr className=" w-7 md:w-20 h-[2px] my-8 bg-gray-200 border-0 rounded dark:bg-gray-700"></hr>
           </div>
 
           <div className="flex flex-col lg:flex-row mx-8 lg:w-[90%] lg:mx-auto text-[#444444] ">

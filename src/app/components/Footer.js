@@ -4,7 +4,7 @@ function Footer() {
   return (
     <>
      <footer className='footer-shadow'>
-        <div className='text-sm py-10  items-center flex justify-between w-[90%] mx-auto ' >
+        <div className='text-sm py-10  items-center flex justify-between w-full mx-auto ' >
 
             <div className='text-[#222] '>
                 

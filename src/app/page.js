@@ -34,9 +34,7 @@ export default function Home() {
       <Services/>
     </section>
 
-    <section>
     <Process/>
-    </section>
 
     <section>
       <Feature/>
